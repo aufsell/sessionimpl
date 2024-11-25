@@ -1,0 +1,1 @@
+Абстрактная реализация statefull session
